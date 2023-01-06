@@ -1,7 +1,7 @@
 # Kelley Mueller
 <ul>
   <li>:wave: Hello, World!</li>
-  <li>:books:Currently studying Ruby on Rails </li>
+  <li>:books: Currently studying Ruby on Rails </li>
   <li>:computer: Currently working on deploying my portfolio</li>
   <br>
 <ul>
