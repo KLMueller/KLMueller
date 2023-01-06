@@ -1,3 +1,4 @@
+
 # Kelley Mueller
 <ul>
   <li>:wave: Hello, World!</li>
@@ -6,6 +7,7 @@
   <br>
 <ul>
 
+# How I Spend My Time Programming
 ![Kelley's GitHub stats](https://github-readme-stats.vercel.app/api?username=KLMueller&show_icons=true&theme=cobalt)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KLMueller&theme=cobalt)](https://github.com/KLMueller/github-readme-stats)
@@ -13,7 +15,7 @@
 <!-- To Link your profile to the media buttons --> 
 [1]: https://www.linkedin.com/in/kelley-mueller-374b589
 
-
+# Tools In My Belt
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
