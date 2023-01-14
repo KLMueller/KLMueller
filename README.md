@@ -7,15 +7,7 @@
   <li>:handshake: Find me here on <a href="https://www.linkedin.com/in/kelley-mueller-374b5891/">LinkedIn</a>
     
 <ul>
- 
- ## 📈 GitHub Stats 
   
-![Kelley's GitHub stats](https://github-readme-stats.vercel.app/api?username=KLMueller&show_icons=true&theme=cobalt)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KLMueller&theme=cobalt)](https://github.com/KLMueller/github-readme-stats)
-  
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=KLMueller.KLMueller)](https://www.github.com/KLMueller)
-
 ## 🧰 My Developer Tools 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -33,3 +25,4 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)
 
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=KLMueller.KLMueller)](https://www.github.com/KLMueller) 
